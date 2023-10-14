@@ -8,11 +8,20 @@ class Cliente:
         self.razon_social = razon_social
         self.persona_contacto = persona_contacto
 
-    # Método getter de los datos en forma de cadena
-    def __str__(self):
-        if self.tipo == "persona física":
-            return f"Cliente: {self.rfc} ({self.tipo}) - {self.nombre} - Correo: {self.correo_electronico}"
-        elif self.tipo == "persona moral":
-            return f"Cliente: {self.rfc} ({self.tipo}) - {self.razon_social} - Contacto: {self.persona_contacto} - Correo: {self.correo_electronico}"
-        else:
-            return f"Cliente: {self.rfc} - Tipo desconocido"
+    def obtener_Rfc(self):
+        return self.rfc
+
+    def obtener_Tipo(self):
+        return self.tipo
+
+    def obtener_Nombre(self):
+        return self.nombre
+
+    def obtener_Correo_electronico(self):
+        return self.correo_electronico
+
+    def obtener_Razon_social(self):
+        return self.razon_social
+
+    def obtener_Persona_contacto(self):
+        return self.persona_contacto

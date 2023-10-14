@@ -6,7 +6,7 @@ from fpdf import FPDF
 class Factura:
     # Método constructor de la clase factura
     def __init__(self, compra):
-        self.compra = compra
+        self.compra = compra # Crea una instancia de la clase compra y se utiliza como atributo
         self.cfid = str(uuid.uuid4())
 
     def generar_factura_pdf(self):

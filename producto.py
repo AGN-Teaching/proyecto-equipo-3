@@ -1,7 +1,7 @@
 class Producto:
     # Método constructor de la clase producto
-    def __init__(self, nombre, precio, cantidad):
-        self.nombre = nombre
+    def __init__(self, nombre_producto, precio, cantidad):
+        self.nombre_producto = nombre_producto
         self.precio = precio
         self.cantidad = cantidad
 
