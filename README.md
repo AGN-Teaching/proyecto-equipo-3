@@ -65,4 +65,6 @@ Después de que el recibo haya dado un identificador se tendrá que obtener una 
 ### Ochoa De La Cruz Bryan Tonatiuh:
 
 ### Medrano Cano Axel Andre:
-Jaja, no sé que escribir
+A lo largo del desarrollo de este proyecto, se han destacado conceptos fundamentales de la programación orientada a objetos, como encapsulación, composición, agregación y relaciones entre clases.
+Hemos demostrado cómo modelar un sistema de facturación que involucra clientes, compras, productos, recibos y facturas, y cómo utilizar la encapsulación para controlar el acceso a los atributos de las clases. Además, se han proporcionado métodos para realizar acciones específicas y generar recibos y facturas.
+Si bien esta implementación es simplificada, sienta las bases para un sistema de facturación más completo y escalable. En un contexto real, se podrían agregar más características y funcionalidades, como la gestión de inventario, registros fiscales, cálculos de impuestos y generación de archivos PDF y XML.
