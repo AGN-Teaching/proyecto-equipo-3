@@ -63,7 +63,9 @@ Después de que el recibo haya dado un identificador se tendrá que obtener una 
 
 ## Conclusiones individuales:
 ### Ochoa De La Cruz Bryan Tonatiuh:
-
+Este programa de sistema de facturación, a lo largo del proyecto, requirió el uso de conceptos previamente vistos, uno de los más destacables es la composición, la cual destaca sobre todo en las clases y la relación que existe en estas. Pero no es lo único que se utiliza, sino que conceptos como la encapsulación o la relación de agregación, también tienen presencia en dicho sistema. Donde cada clase creada posee los métodos que le permiten hacer la acción que este necesita. Haciendo así que cada clase tome un rol específico con el cual quede bien definida su funcionalidad.
+Es gracias a todo esto que la definición de las clases y la estructura de relaciones entre ellas permiten ver de manera clara la gestión de clientes, compras, productos, recibos y facturas.
+En resumen, este proyecto ilustra cómo varios conceptos de la programación orientada a objetos pueden usarse de manera conjunta para modelar un sistema complejo que a la vez puede sentar las bases de un sistema para que pueda ser ampliado y mejorado, si así se requiriera según las necesidades específicas de un sistema de facturación más complejo.
 ### Medrano Cano Axel Andre:
 A lo largo del desarrollo de este proyecto, se han destacado conceptos fundamentales de la programación orientada a objetos, como encapsulación, composición, agregación y relaciones entre clases.
 Hemos demostrado cómo modelar un sistema de facturación que involucra clientes, compras, productos, recibos y facturas, y cómo utilizar la encapsulación para controlar el acceso a los atributos de las clases. Además, se han proporcionado métodos para realizar acciones específicas y generar recibos y facturas.
